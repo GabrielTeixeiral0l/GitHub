@@ -9,4 +9,4 @@ for i in lista:
         impar+=i
 print('par: ',par)
 print('impar: ',impar)
-print('valores: ', lista)
+print('valores: ', lista) 
